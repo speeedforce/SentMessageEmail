@@ -1,0 +1,6 @@
+D:\VS project\SentMessageEmail\SentMessageEmail\bin\Debug\SentMessageEmail.exe.config
+D:\VS project\SentMessageEmail\SentMessageEmail\bin\Debug\SentMessageEmail.exe
+D:\VS project\SentMessageEmail\SentMessageEmail\bin\Debug\SentMessageEmail.pdb
+D:\VS project\SentMessageEmail\SentMessageEmail\obj\Debug\SentMessageEmail.csprojResolveAssemblyReference.cache
+D:\VS project\SentMessageEmail\SentMessageEmail\obj\Debug\SentMessageEmail.exe
+D:\VS project\SentMessageEmail\SentMessageEmail\obj\Debug\SentMessageEmail.pdb
